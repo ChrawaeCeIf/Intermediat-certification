@@ -1,0 +1,14 @@
+E:\a\Intermediate certification\Task4\bin\Debug\net8.0\Task4.exe
+E:\a\Intermediate certification\Task4\bin\Debug\net8.0\Task4.deps.json
+E:\a\Intermediate certification\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+E:\a\Intermediate certification\Task4\bin\Debug\net8.0\Task4.dll
+E:\a\Intermediate certification\Task4\bin\Debug\net8.0\Task4.pdb
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\Task4.dll
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\refint\Task4.dll
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\Task4.pdb
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+E:\a\Intermediate certification\Task4\obj\Debug\net8.0\ref\Task4.dll
